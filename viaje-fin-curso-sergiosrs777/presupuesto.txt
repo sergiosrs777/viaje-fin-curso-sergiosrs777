@@ -1,0 +1,5 @@
+Transporte: 150€ por persona
+Alojamiento: 200€ por persona
+Comidas: 120€ por persona
+Actividades: 80€ por persona 
+Seguro: 25€ por persona
